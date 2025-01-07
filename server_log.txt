@@ -1,0 +1,18 @@
+2024-12-10 18:29:31,274 - INFO - Server listening at 0.0.0.0:12345
+2024-12-10 21:06:59,934 - INFO - Connection established from ('192.168.100.62', 50273)
+2024-12-10 21:06:59,981 - INFO - Saved file: C:\Users\DELL\Downloads\l3qcZODIZE\p.txt
+2024-12-10 21:08:28,983 - INFO - Connection established from ('192.168.100.62', 50281)
+2024-12-10 21:08:29,019 - INFO - Saved file: C:\Users\DELL\Downloads\2FnooSD6EH\y.txt
+2024-12-10 22:20:55,881 - INFO - Server listening at 0.0.0.0:12345
+2024-12-10 22:22:53,151 - INFO - Server listening at 0.0.0.0:12345
+2024-12-10 22:23:33,481 - INFO - Connection established from ('192.168.100.62', 50643)
+2024-12-10 22:23:33,484 - INFO - Saved file: C:\Users\DELL\Downloads\1zNa1xlKP8\iu.txt
+2024-12-10 22:38:43,218 - INFO - Saved file: C:\Users\DELL\Downloads\aPufaIlQfF\k.txt
+2024-12-11 00:17:59,223 - INFO - Server listening at 0.0.0.0:12345
+2024-12-11 00:20:28,112 - INFO - Server listening at 0.0.0.0:12345
+2024-12-11 00:22:17,501 - INFO - Connection established from ('192.168.100.62', 51401)
+2024-12-11 00:22:17,521 - INFO - Saved file: C:\Users\DELL\Downloads\NI2WQ9Fy2U\Edu.txt
+2024-12-11 00:22:17,942 - INFO - Connection established from ('192.168.100.62', 51403)
+2024-12-11 00:22:17,945 - ERROR - Invalid JSON data received.
+2024-12-11 00:22:18,038 - INFO - Connection established from ('192.168.100.62', 51404)
+2024-12-11 00:22:18,042 - ERROR - Invalid JSON data received.
