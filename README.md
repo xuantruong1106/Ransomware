@@ -11,3 +11,7 @@ Xin vui lòng không sử dụng mục đích vi phạm pháp luật
 
 Chúng tôi hoàn toàn không chịu trách nhiệm dưới mọi hình thức
 # Ransomware
+
+# chạy trên máy ảo ubuntu tại thư mục Documents tạo thư mục container-code
+# sau đó tiếng hành chạy server và chạy client
+# mặc định sẽ quét tại thư mục Downloads, hãy để các ảnh tại thư mục này để diễn ra quá trình mã hóa
