@@ -10,3 +10,4 @@ We are absolutely not responsible in any way
 Xin vui lòng không sử dụng mục đích vi phạm pháp luật 
 
 Chúng tôi hoàn toàn không chịu trách nhiệm dưới mọi hình thức
+# Ransomware
