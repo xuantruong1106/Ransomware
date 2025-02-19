@@ -15,3 +15,4 @@ Chúng tôi hoàn toàn không chịu trách nhiệm dưới mọi hình thức
 # chạy trên máy ảo ubuntu tại thư mục Documents tạo thư mục container-code
 # sau đó tiếng hành chạy server và chạy client
 # mặc định sẽ quét tại thư mục Downloads, hãy để các ảnh tại thư mục này để diễn ra quá trình mã hóa
+# chạy file giaima.py để tiến hành giải mã file với key được chưa trong thư mục container-code/[ip-client]/encryption_key.txt và chọn thư mục đang chứa các file bị mã hóa, chọn 'ecrypt Files' để tiến hành giải mã
